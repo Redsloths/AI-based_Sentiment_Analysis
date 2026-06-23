@@ -1,0 +1,135 @@
+albucore==0.0.24
+albumentations==2.0.8
+annotated-doc==0.0.4
+annotated-types==0.7.0
+anyio==4.13.0
+asttokens @ file:///home/task_177313477426751/croot/asttokens_1773135632938/work
+certifi==2026.4.22
+click==8.3.3
+coloredlogs==15.0.1
+comm @ file:///home/task_176311912485839/conda-bld/comm_1763119193329/work
+contourpy==1.3.2
+cuda-bindings==12.9.4
+cuda-pathfinder==1.2.2
+cuda-toolkit==12.6.3
+cycler==0.12.1
+debugpy @ file:///home/task_176242089189943/conda-bld/debugpy_1762421640390/work
+decorator @ file:///home/task_175734097812358/conda-bld/decorator_1757341231906/work
+exceptiongroup @ file:///home/task_176156033398806/conda-bld/exceptiongroup_1761560346388/work
+executing @ file:///home/task_175706097762404/conda-bld/executing_1757061230060/work
+filelock==3.25.2
+flatbuffers==25.12.19
+fonttools==4.62.1
+fsspec==2026.2.0
+h11==0.16.0
+hf-xet==1.4.3
+hsemotion-onnx==0.3.1
+httpcore==1.0.9
+httpx==0.28.1
+huggingface_hub==1.11.0
+humanfriendly==10.0
+idna==3.13
+ipykernel @ file:///home/task_177261241762622/croot/ipykernel_1772612455856/work
+ipython @ file:///croot/ipython_1734548052611/work
+ipywidgets @ file:///home/task_177149910209364/croot/ipywidgets_1771500030713/work
+jedi @ file:///croot/jedi_1733987392413/work
+Jinja2==3.1.6
+joblib==1.5.3
+jupyter_client @ file:///home/task_176839861415005/croot/jupyter_client_1768399003944/work
+jupyter_core @ file:///home/task_176458821174145/conda-bld/jupyter_core_1764588287078/work
+jupyterlab_widgets @ file:///home/task_177149228737690/croot/jupyterlab_widgets_1771492388534/work
+kiwisolver==1.5.0
+lightgbm==4.6.0
+markdown-it-py==4.0.0
+MarkupSafe==3.0.3
+matplotlib==3.10.8
+matplotlib-inline @ file:///home/task_176277917297058/conda-bld/matplotlib-inline_1762779216380/work
+mdurl==0.1.2
+ml_dtypes==0.5.4
+mpmath==1.3.0
+nest-asyncio @ file:///croot/nest-asyncio_1708532673751/work
+networkx==3.4.2
+numpy==2.2.6
+nvidia-cublas-cu12==12.6.4.1
+nvidia-cuda-cupti-cu12==12.6.80
+nvidia-cuda-nvrtc-cu12==12.6.85
+nvidia-cuda-runtime-cu12==12.6.77
+nvidia-cudnn-cu12==9.10.2.21
+nvidia-cufft-cu12==11.3.0.4
+nvidia-cufile-cu12==1.11.1.6
+nvidia-curand-cu12==10.3.7.77
+nvidia-cusolver-cu12==11.7.1.2
+nvidia-cusparse-cu12==12.5.4.2
+nvidia-cusparselt-cu12==0.7.1
+nvidia-nccl-cu12==2.28.9
+nvidia-nvjitlink-cu12==12.6.85
+nvidia-nvshmem-cu12==3.4.5
+nvidia-nvtx-cu12==12.6.77
+onnx==1.21.0
+onnxruntime==1.23.2
+opencv-python==4.13.0.92
+opencv-python-headless==4.13.0.92
+packaging==26.0
+pandas==2.3.3
+parso @ file:///home/task_176278180367815/conda-bld/parso_1762781859743/work
+pexpect @ file:///home/task_176253513056498/conda-bld/pexpect_1762535937673/work
+pillow==12.2.0
+platformdirs @ file:///home/task_177365214313562/croot/platformdirs_1773652961260/work
+prompt_toolkit @ file:///home/task_176174483237982/conda-bld/prompt-toolkit_1761744846465/work
+protobuf==7.34.1
+psutil @ file:///home/task_176189642285093/conda-bld/psutil_1761896463775/work
+ptyprocess @ file:///opt/miniconda3/conda-bld/ptyprocess_1762424170819/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl#sha256=3470be7f810474c8a2ecfcd6e02acc6aea8483ab595417fa4e336362a349933e
+pure_eval @ file:///home/task_175706683913895/conda-bld/pure_eval_1757067047727/work
+pydantic==2.13.3
+pydantic_core==2.46.3
+Pygments @ file:///home/task_177512698379571/croot/pygments_1775127011325/work
+pyparsing==3.3.2
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz==2026.1.post1
+PyYAML==6.0.3
+pyzmq @ file:///home/task_176237539786758/conda-bld/pyzmq_1762375586858/work
+rich==15.0.0
+safetensors==0.7.0
+scikit-learn==1.7.2
+scipy==1.15.3
+seaborn==0.13.2
+shellingham==1.5.4
+simsimd==6.5.16
+six @ file:///croot/six_1744271502820/work
+stack_data @ file:///home/task_175706683891681/conda-bld/stack_data_1757067036413/work
+stringzilla==4.6.0
+sympy==1.14.0
+threadpoolctl==3.6.0
+timm==1.0.26
+torch==2.11.0+cu126
+torchaudio==2.11.0+cu126
+torchvision==0.26.0+cu126
+tornado @ file:///home/task_177430341073469/croot/tornado_1774303626775/work
+tqdm==4.67.3
+traitlets @ file:///croot/traitlets_1718227057033/work
+triton==3.6.0
+typer==0.24.2
+typing-inspection==0.4.2
+typing_extensions @ file:///croot/typing_extensions_1756280817316/work
+tzdata==2026.1
+wcwidth @ file:///home/task_176777874962197/croot/wcwidth_1767779156182/work
+widgetsnbextension @ file:///home/task_176155666763211/conda-bld/widgetsnbextension_1761556740177/work
+
+
+# Core Deep Learning
+torch==2.11.0
+torchvision==0.26.0
+timm==1.0.26
+
+# Image Processing & Utilities
+albumentations==2.0.8
+opencv-python==4.13.0.92
+numpy==2.2.6
+tqdm==4.67.3
+
+
+--- 추론 결과 (Top 3) ---
+1위: Panic   (51.93%)
+2위: Sadness (16.95%)
+3위: Happy   (16.31%)
+★ 최종 예측 감정: Panic (51.93%)
