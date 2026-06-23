@@ -1,0 +1,177 @@
+﻿source_frame,crop_id,bbox,complex_label,distance,Anger_prob,Happy_prob,Panic_prob,Sadness_prob,Neutral_prob
+2026-04-20_4.01.10---,crop_000,"[359, 154, 526, 403]",기쁨,0.1506,0.0015,0.966,0.0155,0.0083,0.0088
+2026-04-20_4.01.10---,crop_002,"[764, 387, 931, 662]",기쁨,0.1631,0.0004,0.9736,0.0044,0.0105,0.0107
+2026-04-20_4.01.10---,crop_003,"[910, 130, 1060, 362]",기쁨,0.1614,0.0001,0.9985,0.001,0.0004,0.0005
+2026-04-20_4.01.20---,crop_000,"[533, 480, 702, 724]",기쁨,0.1614,0.0001,0.9966,0.0012,0.001,0.0010004043579101
+2026-04-20_4.01.20---,crop_001,"[1193, 340, 1340, 561]",기쁨,0.1621,0.0,1.0,0.0001,0.0,0.0
+2026-04-20_4.01.20---,crop_002,"[27, 228, 190, 421]",불만,0.382,0.0194,0.104,0.2152,0.321,0.34033203125
+2026-04-20_4.01.20---,crop_004,"[1028, 464, 1231, 718]",슬픔,0.184,0.0011,0.0056,0.0105,0.4907,0.491943359375
+2026-04-20_4.01.50---,crop_000,"[456, 260, 637, 480]",슬픔,0.1871,0.0018,0.0061,0.0139,0.488,0.4905
+2026-04-20_4.01.50---,crop_001,"[709, 349, 847, 544]",불만,0.3636,0.0868,0.102,0.1593,0.2822,0.3696
+2026-04-20_4.02.00---,crop_000,"[546, 354, 664, 532]",기쁨,0.1265,0.0089,0.857,0.0561,0.0346,0.0434
+2026-04-20_4.02.00---,crop_001,"[1053, 388, 1173, 574]",공포,0.0109,0.0024,0.0098,0.9697,0.0082,0.0103
+2026-04-20_4.03.43---,crop_000,"[916, 156, 1125, 432]",기쁨,0.1619,0.0,0.999,0.0003,0.0001,0.0
+2026-04-20_4.03.43---,crop_001,"[338, 314, 518, 506]",슬픔,0.2226,0.0038,0.0308,0.0411,0.4604,0.464111328125
+2026-04-20_4.03.43---,crop_002,"[177, 89, 425, 281]",염려,0.2751,0.1284,0.3452,0.2114,0.0932,0.2215576171875
+2026-04-20_4.03.51---,crop_000,"[1505, 153, 1583, 272]",염려,0.3645,0.0467,0.2206,0.372,0.1567,0.20361328125
+2026-04-20_4.03.51---,crop_001,"[769, 191, 877, 318]",경외,0.1597,0.0608,0.4172,0.2532,0.1041,0.1650390625
+2026-04-20_4.03.51---,crop_002,"[548, 361, 666, 498]",기쁨,0.1622,0.0,1.0,0.0,0.0,0.0
+2026-04-20_4.03.51---,crop_003,"[1025, 373, 1133, 528]",편안,0.2234,0.003,0.697,0.0335,0.1317,0.134765625
+2026-04-20_4.03.51---,crop_004,"[1337, 109, 1409, 200]",혼란,0.2183,0.1868,0.1184,0.2374,0.1355,0.322265625
+2026-04-20_4.03.51---,crop_005,"[1398, 445, 1463, 561]",경멸,0.1649,0.44,0.012,0.0332,0.0374,0.477294921875
+audience_reaction_ci_Qyc4U1bY-RE_jpg.rf.9c8f44d7e871017133f09dbfcfab50f4,No_Face,None,None,None,None,None,None,None,None
+audience_reaction_ci_V8TSnZKyaiw_jpg.rf.768969bd5c72acb831563cf1a3aefbf3,No_Face,None,None,None,None,None,None,None,None
+audience_reaction_ci_ds3IuSX0Fys_jpg.rf.057417a124ff91757f5bd8fdf1628879,No_Face,None,None,None,None,None,None,None,None
+audience_reaction_ci_qoFzL-vEM_U_jpg.rf.8a9fec43b04f5360ab721b82fca04225,No_Face,None,None,None,None,None,None,None,None
+audience_reaction_ci_qx6QtPOhO9I_jpg.rf.72c180d4777f5e2b646ddac3aaa67c85,No_Face,None,None,None,None,None,None,None,None
+audience_reaction_ci_ulgzDQZQjV0_jpg.rf.7f9da872edde2d63b31dac788f0c3123,No_Face,None,None,None,None,None,None,None,None
+audience_watching_sc_0GtJjkBcz_E_jpg.rf.880ee3fcbb6024b19786fe950915d085,No_Face,None,None,None,None,None,None,None,None
+audience_watching_sc_D89TQvNQD6g_jpg.rf.6d43b07185fdcb72219e1975e2140f6b,No_Face,None,None,None,None,None,None,None,None
+audience_watching_sc_LvFR0dckozo_jpg.rf.2cdde286853813d2adc0035341ada697,No_Face,None,None,None,None,None,None,None,None
+audience_watching_sc_MYzNFM87zFI_jpg.rf.e38ed6ad05e2174e6dbea3f7ca1c02b7,No_Face,None,None,None,None,None,None,None,None
+audience_watching_sc_blgOFmPIlr0_jpg.rf.813d23591c8559f33f163f1abdae80a7,No_Face,None,None,None,None,None,None,None,None
+audience_watching_sc_bzdhc5b3Bxs_jpg.rf.68bea2d8360c660aaf454b044e7b90d7,No_Face,None,None,None,None,None,None,None,None
+audience_watching_sc_f-QZTRw_zw0_jpg.rf.be4fbf32b1e56727f444a36a86e548f9,No_Face,None,None,None,None,None,None,None,None
+audience_watching_sc_p7iRo2YHELA_jpg.rf.6d359e344d0694616753bd8177415987,No_Face,None,None,None,None,None,None,None,None
+audience_watching_sc_tFBOfZQaXIk_jpg.rf.2f2e965918acad9c4a7380df5cf43f17,crop_000,"[436, 453, 483, 512]",불만,0.3618,0.0321,0.0912,0.212,0.3164,0.3481
+audience_watching_sc_vsqo_YtW0zo_jpg.rf.68c1cbefce0f4c8dea459674599342a5,No_Face,None,None,None,None,None,None,None,None
+audience_watching_sc_xEbDAGCQlOk_jpg.rf.ba05a9535ea0b7cbea1a1898fb22b000,No_Face,None,None,None,None,None,None,None,None
+bn-D2bCvpik_jpg.rf.466b6466010da3b56465046aef7ecacb,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_1r61ot8P9Q8_jpg.rf.57d0e5026ea84a7c0ad7e6f36b4495c7,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_2s3ILi-zP-o_jpg.rf.80e95cfc93298d24c4a42e4a1cf14d59,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_57MukhUCxsg_jpg.rf.71487cbcdd2d298eff652ca9b762bdd9,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_65T79q3DL1E_jpg.rf.421d93f3e74dcad21fe9917834a20244,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_6LQKCMzCXq4_jpg.rf.8a159e10c634da178cc12711721bcbfa,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_CE9LEqqfTD0_jpg.rf.8766fe11143d1503d7234cbd48204e37,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_DhrnHAIpx1Q_jpg.rf.ae97889615877c214e82be8696d5155b,crop_000,"[281, 240, 319, 321]",혼란,0.1848,0.2104,0.1195,0.276,0.092,0.3022
+cinema_audience_watc_DhrnHAIpx1Q_jpg.rf.ae97889615877c214e82be8696d5155b,crop_001,"[357, 280, 409, 395]",공포,0.3413,0.0504,0.21,0.4111,0.139,0.1895
+cinema_audience_watc_DhrnHAIpx1Q_jpg.rf.ae97889615877c214e82be8696d5155b,crop_005,"[87, 253, 130, 339]",공포,0.2494,0.071,0.1753,0.484,0.0993,0.1699
+cinema_audience_watc_DhrnHAIpx1Q_jpg.rf.ae97889615877c214e82be8696d5155b,crop_006,"[419, 161, 465, 232]",경멸,0.1396,0.3953,0.0353,0.0974,0.0385,0.4336
+cinema_audience_watc_DhrnHAIpx1Q_jpg.rf.ae97889615877c214e82be8696d5155b,crop_008,"[221, 118, 260, 183]",공포,0.0715,0.0145,0.0536,0.8066,0.055,0.0698
+cinema_audience_watc_DhrnHAIpx1Q_jpg.rf.ae97889615877c214e82be8696d5155b,crop_009,"[232, 362, 280, 470]",불만,0.3792,0.1837,0.0254,0.0764,0.2654,0.4492
+cinema_audience_watc_EBsHWPaXuIw_jpg.rf.50390f9fe577d3af3a2da5005f27836f,crop_001,"[233, 169, 269, 239]",혼란,0.205,0.0736,0.1278,0.416,0.1545,0.228
+cinema_audience_watc_FDV1BaKNKEo_jpg.rf.98bf680571c471a8777d9699664ad372,crop_004,"[257, 205, 294, 281]",혼란,0.2208,0.0592,0.1298,0.3672,0.1924,0.2515
+cinema_audience_watc_FDV1BaKNKEo_jpg.rf.98bf680571c471a8777d9699664ad372,crop_011,"[36, 234, 89, 337]",경멸,0.1389,0.4014,0.0311,0.0894,0.0385,0.4397
+cinema_audience_watc_FDV1BaKNKEo_jpg.rf.98bf680571c471a8777d9699664ad372,crop_012,"[0, 429, 43, 512]",혼란,0.1833,0.1387,0.1175,0.4006,0.1023,0.2408
+cinema_audience_watc_G16kFHYvCoQ_jpg.rf.4070fd57b3d8e358bff23deb89c1e537,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_HeH9LEn7E10_jpg.rf.f672fd2550497a0f1052f5db3eb0d522,crop_000,"[224, 152, 270, 231]",슬픔,0.1929,0.0031,0.0073,0.0199,0.4836,0.4863
+cinema_audience_watc_HeH9LEn7E10_jpg.rf.f672fd2550497a0f1052f5db3eb0d522,crop_001,"[164, 433, 219, 512]",공포,0.2749,0.0607,0.1726,0.424,0.1411,0.2021
+cinema_audience_watc_HpIiQ0AgWus_jpg.rf.8c49711032c6222c5128ac3321269fc7,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_HqR6mZvXP8Y_jpg.rf.ce7ad46b0b7932bff30105182957676a,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_JXyJfLxgDQA_jpg.rf.7cf6f7caeacd2966d847b4920f7ca2c2,crop_000,"[254, 109, 301, 181]",혼란,0.1247,0.0301,0.0708,0.5796,0.1447,0.1748
+cinema_audience_watc_L7DBxWQb7jQ_jpg.rf.7f1e1edc85cb4aebdd9d7883b2ceb0ae,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_PWaV5g1Cpgs_jpg.rf.8966d36e1eb7db9b884f4886ac25db17,crop_000,"[253, 155, 304, 272]",염려,0.2358,0.0361,0.2664,0.4355,0.113,0.1489
+cinema_audience_watc_Ph4H5c63u7Q_jpg.rf.f325489e2a3095b0613174c7861cef0c,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_QHqQsxLMQyQ_jpg.rf.a47240f6f4171cee42a2dc185c2b7a97,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_RsUstd1tiLs_jpg.rf.70c9812118853078e63bda9a72e548b4,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_Rveu2lx22GU_jpg.rf.e99f02e53260e7a107dcf2d54fed1347,crop_000,"[443, 422, 490, 507]",공포,0.0129,0.019,0.002,0.955,0.0025,0.0214996337890625
+cinema_audience_watc_Rveu2lx22GU_jpg.rf.e99f02e53260e7a107dcf2d54fed1347,crop_002,"[189, 96, 230, 165]",공포,0.0385,0.0179,0.027,0.882,0.028,0.04541015625
+cinema_audience_watc_Rveu2lx22GU_jpg.rf.e99f02e53260e7a107dcf2d54fed1347,crop_006,"[80, 87, 138, 183]",혼란,0.134,0.0631,0.0816,0.504,0.1445,0.20703125
+cinema_audience_watc_Rveu2lx22GU_jpg.rf.e99f02e53260e7a107dcf2d54fed1347,crop_008,"[222, 113, 269, 199]",공포,0.0,0.0,0.0,1.0,0.0,0.0
+cinema_audience_watc_SZx0VexKXJY_jpg.rf.dc63e5c4b7248b47399a9908da79f80b,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_VfPIpFx4p-s_jpg.rf.820049798e385249cb9375ee6bffe3aa,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_VhSdn8HGbgc_jpg.rf.765c83dfb65ce51ae7afc8bea6aa4e85,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_Vkstnf0Gwn0_jpg.rf.1aa504a2a19ac8eb169529fcef042650,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_VtUeEKDPWrg_jpg.rf.fa5843b79e53f4800bb75c912a670c6f,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_X13X1lSvxSQ_jpg.rf.bafbae30fc779dd2b7d309ff1b327c30,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc__wCylenzxZw_jpg.rf.8e6aaafbd5f8d3a8e48d6df15d82cbbd,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_ctXGtk2Oy-I_jpg.rf.292716c815902896499eced56809f115,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_ddp66SKlsNk_jpg.rf.be4e5e2477da2f1f0c54d1a98091fff2,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_dulGNWIY8DU_jpg.rf.19e7be00c9755a8491030a14e45f2c63,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_g6bHwKYAvNw_jpg.rf.dd0469c7dd71f474f2279203743084ca,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_gcRE88Q9o9w_jpg.rf.5b056ada222e7e31bbe64b2c9fa802f6,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_hF-SdHIU2lQ_jpg.rf.346bcc8576ee62e17cc3d7ae287ef6af,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_j5bRXs1iFy0_jpg.rf.0562404ee627b42dc49495c6b660ddec,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_k1bRs5Nvq4c_jpg.rf.38f654c8e2040f1fc1208da36e37506d,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_mxhWy1td-BE_jpg.rf.5003b09040fd7a5a16fc8300e8b6b100,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_n9E3f3yt010_jpg.rf.179048927eea97e6e0fe111450e6f7ac,crop_000,"[222, 135, 266, 204]",실망,0.3608,0.0323,0.071,0.1812,0.3418,0.374
+cinema_audience_watc_nE87S5z9sqM_jpg.rf.ec7889a9f1878f0c749174db908d5268,crop_000,"[167, 99, 204, 159]",경멸,0.2386,0.0756,0.0916,0.2844,0.2362,0.3125
+cinema_audience_watc_nLl5sJnElxY_jpg.rf.1d212c06c945d40a14d04d058dd09f57,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_nW1n9eNHOsc_jpg.rf.cf404f454c158782fb610b2020ab7c32,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_oisGO6JZuW0_jpg.rf.a50b1fa2cdd735c0412f28b358d1676f,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_pcGLNRCICnA_jpg.rf.ad8d9a064777fdef2d99f58c9575b80d,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_phbxGSTKc9E_jpg.rf.3bd7355dae9221fd24ea6d938564e047,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_puIT9QssHyU_jpg.rf.cbae230331fa4ad07369e038ed705894,crop_000,"[412, 137, 458, 225]",혼란,0.1846,0.117,0.1177,0.3892,0.1295,0.2466
+cinema_audience_watc_puIT9QssHyU_jpg.rf.cbae230331fa4ad07369e038ed705894,crop_001,"[247, 200, 292, 313]",혼란,0.0811,0.1729,0.041,0.507,0.0531,0.226
+cinema_audience_watc_puIT9QssHyU_jpg.rf.cbae230331fa4ad07369e038ed705894,crop_003,"[159, 6, 200, 87]",혼란,0.1558,0.0813,0.0934,0.516,0.1136,0.1958
+cinema_audience_watc_r33fhgtcoEk_jpg.rf.33d080cd61620f64fbf9c2332e188fb9,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_rQFB0S6vJuQ_jpg.rf.7f9d2fd502fd5d1e9eafafec074cd3b4,No_Face,None,None,None,None,None,None,None,None
+cinema_audience_watc_sSd85nlmy8M_jpg.rf.3fa3e8b986d3c05afc40484926204c18,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_-F2QLmg5Ezw_jpg.rf.e4812d5d5e994719a5e8c53941a6357f,crop_000,"[104, 157, 151, 261]",공포,0.0799,0.1091,0.0112,0.744,0.0132,0.1226
+cinema_viewers_-oTwXek_38Q_jpg.rf.c32d8113b4e503e8c519445efef5be65,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_1fmp47PUB-4_jpg.rf.a1f348ba2818089eb94a6bf902ad9960,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_4FAtX3bm0VE_jpg.rf.677dcb31180bdc0f25305681d8d7ea82,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_60P9evTpb0Y_jpg.rf.2b7cd1ce2639730199ad3d01521e3774,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_6D4cBnw5Hcs_jpg.rf.0a77674f9b5870562be2acbf9b804059,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_79aUyJnySGg_jpg.rf.9e0116386c28d0fe98bf997e9bb4fc99,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_H4d1ArOwHeA_jpg.rf.b18ba7590eb1df0d88dd19a87a6ec47e,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_Ht3Wku6-avM_jpg.rf.b4facd7b928f967b3886c134dd804dcc,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_IIm4Upn8VJs_jpg.rf.d476df2a53a07ce19d6dd25ae94af99c,crop_000,"[80, 68, 125, 137]",혼란,0.1321,0.1942,0.0753,0.3452,0.0954,0.29
+cinema_viewers_IIm4Upn8VJs_jpg.rf.d476df2a53a07ce19d6dd25ae94af99c,crop_001,"[420, 291, 463, 361]",슬픔,0.1883,0.0018,0.0058,0.0159,0.4873,0.4888
+cinema_viewers_IIm4Upn8VJs_jpg.rf.d476df2a53a07ce19d6dd25ae94af99c,crop_002,"[268, 53, 311, 135]",슬픔,0.1939,0.0028,0.0123,0.0184,0.482,0.4844
+cinema_viewers_JJrJX9mQ6q0_jpg.rf.6c60741e4ee82f10ba5a9110e1d4e5d9,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_K4-Zjggt4BI_jpg.rf.071ccdc0a833404a1a042a8648ca4883,crop_001,"[117, 238, 161, 331]",혼란,0.2427,0.09,0.1143,0.3037,0.201,0.291
+cinema_viewers_KQKm3jW7k5c_jpg.rf.ddfa1f28a82e38681de6e5642b81ba97,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_TEhzCvLHo4Q_jpg.rf.4e2119db68ba3370b4a697e6cc43287a,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_VwyQEpFoEhg_jpg.rf.03e65ddae48ff7ed9d3003e8772b9b3c,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_WBgXgSSYcWw_jpg.rf.139fb45a5391cc7d1da6e9787014d986,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_XjeIoLj6XuY_jpg.rf.e46aa00b14225d9d4ad2858f22e44e91,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_Y6wyVBrp9oo_jpg.rf.8ded8ef423bb62e9d1a1c7e5df4389c1,crop_000,"[315, 178, 353, 253]",공포,0.0726,0.0519,0.0312,0.779,0.043,0.0952
+cinema_viewers_fYjyDGtD-0c_jpg.rf.b95b84cdde264ab8e78caac635325ac3,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_fhv_ODu1vO4_jpg.rf.74f97b35391b164d32fd0b0134b44c4b,crop_008,"[452, 419, 488, 477]",기쁨,0.1091,0.059,0.775,0.0622,0.0226,0.0816
+cinema_viewers_fhv_ODu1vO4_jpg.rf.74f97b35391b164d32fd0b0134b44c4b,crop_011,"[175, 408, 214, 471]",기쁨,0.1071,0.0214,0.8457,0.0646,0.024,0.0449
+cinema_viewers_nBD3KFnUm5M_jpg.rf.d4b9e2034a1f686884d059ca7238f488,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_oFrHsUWrnzY_jpg.rf.fa61c3a997817b272786205158f0ab7c,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_oOMqe02robg_jpg.rf.0d9c0d53d862fb34c6fa22837c7e8aae,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_rQrZDwxQulE_jpg.rf.62e6b19de0b705e89d885216ac223e3b,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_rmnRC67cV4M_jpg.rf.aa6055e9059229abd2b97b9c6186c00a,No_Face,None,None,None,None,None,None,None,None
+cinema_viewers_wfz7fdJgXUc_jpg.rf.0e1f1d0827ef62c61fbe776b972ccd42,crop_000,"[122, 150, 173, 242]",혼란,0.0916,0.1644,0.008,0.6465,0.0086,0.1724
+cinema_viewers_wfz7fdJgXUc_jpg.rf.0e1f1d0827ef62c61fbe776b972ccd42,crop_004,"[470, 235, 512, 322]",슬픔,0.2596,0.0122,0.0244,0.062,0.4443,0.4573
+cinema_viewers_yw0lwidZ_Ig_jpg.rf.047e90ab160435b377e0229513a36ebc,crop_000,"[147, 87, 207, 182]",염려,0.189,0.0274,0.296,0.38,0.1348,0.162109375
+cinema_viewers_yw0lwidZ_Ig_jpg.rf.047e90ab160435b377e0229513a36ebc,crop_001,"[303, 114, 364, 219]",기쁨,0.1622,0.0,1.0,0.0,0.0,0.0
+cinema_viewers_yw0lwidZ_Ig_jpg.rf.047e90ab160435b377e0229513a36ebc,crop_002,"[233, 68, 300, 190]",기쁨,0.1622,0.0,1.0,0.0,0.0,0.0
+cq_5MeXw35U_jpg.rf.6a0d0b1a688f497a69c241526fac99d9,No_Face,None,None,None,None,None,None,None,None
+e37eWTAsnW0_jpg.rf.75649a38b37b20e6c71e72454a929cfb,crop_000,"[323, 118, 372, 219]",실망,0.2119,0.031,0.0436,0.1096,0.392,0.424
+e37eWTAsnW0_jpg.rf.75649a38b37b20e6c71e72454a929cfb,crop_001,"[207, 94, 257, 192]",경멸,0.1537,0.3508,0.0396,0.1172,0.0708,0.4211
+eXVd7gDPO9A_jpg.rf.98248deb0b75c40bf9abf2597267553c,No_Face,None,None,None,None,None,None,None,None
+e_RpjNyMgEM_jpg.rf.bb09d041a628c756f60743f05a0bfaab,No_Face,None,None,None,None,None,None,None,None
+fT7TgUqIf4Y_jpg.rf.5169df61193ce0af2afb40d15db8fd2d,No_Face,None,None,None,None,None,None,None,None
+gg7VozgvWqk_jpg.rf.f933a4249b05166d07279e2e8749635e,crop_000,"[257, 72, 308, 174]",기쁨,0.1622,0.0,1.0,0.0,0.0,0.0
+gg7VozgvWqk_jpg.rf.f933a4249b05166d07279e2e8749635e,crop_001,"[323, 93, 372, 199]",기쁨,0.1622,0.0,1.0,0.0,0.0,0.0
+gssVHlGhisQ_jpg.rf.48cfe9394c59e95385da99d929acdf5a,No_Face,None,None,None,None,None,None,None,None
+h-fSAMdJ0rA_jpg.rf.c8394f1460c6a1fb7b72120c7d6a490d,crop_000,"[216, 83, 269, 187]",혼란,0.1004,0.1718,0.0606,0.4443,0.0756,0.2476
+h-fSAMdJ0rA_jpg.rf.c8394f1460c6a1fb7b72120c7d6a490d,crop_001,"[327, 108, 379, 211]",불만,0.3945,0.0529,0.0722,0.1842,0.319,0.3716
+hmpOqsDmYjQ_jpg.rf.b69e1410f30b2d70e91ceeab5be17586,crop_000,"[328, 113, 379, 214]",경멸,0.1438,0.4917,0.0029,0.0077,0.0029,0.4949
+hmpOqsDmYjQ_jpg.rf.b69e1410f30b2d70e91ceeab5be17586,crop_001,"[205, 103, 254, 189]",경멸,0.1416,0.4917,0.003,0.0094,0.0021,0.494
+hzgs56Ze49s_jpg.rf.5cd4e8101b47b104448db54df456d9b5,No_Face,None,None,None,None,None,None,None,None
+j2gctU0c3ZE_jpg.rf.576397e8e6483e89d171dfa8fe4be846,No_Face,None,None,None,None,None,None,None,None
+m1WZS5ye404_jpg.rf.706dfd9e949650fbc5843d51558a7353,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_3-vHy5-5lxQ_jpg.rf.3d053cc92d2620031c2d18b3ba0665a1,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_4s0T5BO2Qjc_jpg.rf.02cf91d9dc5c672b2f2a9e85e780a5c3,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_51gGmC6zevM_jpg.rf.b80ee00f532c9203711793662349dd4e,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_C1GS2aKDSVg_jpg.rf.dddefa77b747c0720d4aa752c05112e8,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_ComALcRukmY_jpg.rf.660a08e5278193d4ade675705bf663f5,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_GenlGZhrmnM_jpg.rf.e8710d8a41b096090bbd38bfc0e9e70e,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_GgfGjJdYp-M_jpg.rf.dfcdb3d04fef41f5b7ce16bc04892903,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_MjZwrERreuY_jpg.rf.386a0c96327142cd57af29f0a4cf68c1,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_NwWVvPDlC2I_jpg.rf.13fb4291ecea3fce41a39b5dc1c4a2ab,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_QJOkMXGE6tU_jpg.rf.d391daed2b95e347b91f6c3adf717bf5,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_RV6-09J3HYU_jpg.rf.af01330c247a79b53fe677dd5436deae,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_S4Be6HDqyVk_jpg.rf.2920f383c8a2cc67fadbe8a7616e08d5,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_Vd-x2GRZ2A0_jpg.rf.dcb6f7e7fb7b672435251296c06f5927,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_bFwxz0RuorI_jpg.rf.f9c4342329a48c0f77c1761046d28410,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_bwz4iQp1DpA_jpg.rf.b97294a79454083aeba4fe327665e9e8,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_h_dERD8vduw_jpg.rf.aac30d92352cbb01cc5f6520c8b10ae1,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_iB5Q9agpz1I_jpg.rf.cf3bbb63ab2d24356d76811ad92862d9,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_oYMg1_VxlaM_jpg.rf.908a2195c132e1eb05dabecb50a799a3,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_qDviXxSpK-I_jpg.rf.3a1e9e54e475e4ca16076f0251ae5b63,crop_023,"[376, 269, 420, 346]",혼란,0.2582,0.0996,0.1348,0.2764,0.195,0.2944
+moviegoers_theater_qa2CgmpKgkQ_jpg.rf.81ef069b15b53d18407549dc195de370,crop_001,"[26, 32, 78, 97]",공포,0.3175,0.0479,0.2026,0.4387,0.1311,0.1792
+moviegoers_theater_rB7oEJ3AHS8_jpg.rf.16769cabe436d32431ec20be0ecb0ea9,No_Face,None,None,None,None,None,None,None,None
+moviegoers_theater_x63JyViQJDE_jpg.rf.8b70ccb90508f8f531f3799733efd2a0,No_Face,None,None,None,None,None,None,None,None
+people_watching_cine_9lDZuNV9R9E_jpg.rf.a8daf3416e1454cee3b91452e39b8de7,No_Face,None,None,None,None,None,None,None,None
+people_watching_cine_ScB5z0wByIY_jpg.rf.142266e6bc48e638d0befad906dc92a9,No_Face,None,None,None,None,None,None,None,None
+people_watching_movi_1A8U3NXzvIE_jpg.rf.73d1e0b4aa0c6c7104ceaab38da0c389,No_Face,None,None,None,None,None,None,None,None
+theater_audience_fac_CPKqiiVbUg4_jpg.rf.5c57b5862e804ef9d4b647d85a76bdc1,No_Face,None,None,None,None,None,None,None,None
+theater_audience_fac_sHSJ_XT3w3k_jpg.rf.523278e4b92c08a10892036032bf49de,No_Face,None,None,None,None,None,None,None,None
+theater_crowd_watchi_-C_w-Oa57Zk_jpg.rf.bd3a2c669a391c112462b48c7b64b2a8,No_Face,None,None,None,None,None,None,None,None
+theater_crowd_watchi_kfN6-ro055U_jpg.rf.25327c8d0c1251bc1565447528c90f6c,No_Face,None,None,None,None,None,None,None,None
