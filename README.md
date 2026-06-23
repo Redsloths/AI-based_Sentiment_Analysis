@@ -30,6 +30,7 @@ EfficientNet
   이 과정에서 여러 논문과 심리학 이론을 기반으로 각 감정을 벡터화하였습니다.  
 
 5. 그 외 트러블 슈팅
+   
 python 버전 차이로 인한 import 문제
 데이터의 Bounding Box 및 잘못된 라벨링 문제
 
