@@ -1,4 +1,3 @@
-<div align="left">
 📌# AI-based_Sentiment_Analysis
 영화를 보는 관객의 표정 변화와 몰입도를 AI로 분석하여 점수로 변환.
 
@@ -33,5 +32,4 @@ EfficientNet
 python 버전 차이로 인한 import 문제
 데이터의 Bounding Box 및 잘못된 라벨링 문제
 
-</div>
 
